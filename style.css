@@ -36,8 +36,8 @@ ul{
     background-color: #ffffff;
 }
 .photo__user{
-    background-color: #1e2939;
-    color: #ffffff;
+    /* background-color: #1e2939; */
+    color: #1e2939;
     width: 478px;
     /* height: 100vh; */
 }
@@ -49,7 +49,7 @@ ul{
     flex-direction: column;
 }
 .user__adress a{
-    color: #ffffff;
+    color: #1e2939;
     
 }
 .user__adress a:not(:last-child){
