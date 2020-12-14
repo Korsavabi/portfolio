@@ -80,7 +80,7 @@ ul{
 .info__list-item-text{
     line-height: 26px;
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 450;
 }
 .info__list-item a::before{
     border: 1px dashed black;
@@ -105,6 +105,10 @@ ul{
 }
 .info__list-ol-item-link{
     text-decoration: none;
+    width: 300px;
+}
+.info__list-ol-item-text{
+    float: right;
 }
 .work__text{
     color: gray;
